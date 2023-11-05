@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johan Liebert</h1>
-<h3 align="center">A enthusiastic student from VietNam</h3>
+<h3 align="center">An enthusiastic student from VietNam</h3>
 
 - 🌱 I’m currently learning **Web Programing**
 
