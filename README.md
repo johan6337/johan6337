@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Johan Liebert</h1>
 <h3 align="center">An enthusiastic student from VietNam</h3>
 
-- 🌱 I’m currently learning **Web Programing**
+- 🌱 I’m currently learning **Cryptography**
 
 - 📫 How to reach me **johanliebert6337@gmail.com**
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/ccniPwx.gif">
