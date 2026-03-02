@@ -1,16 +1,29 @@
 <h1 align="center">Hi 👋, I'm Hachiware</h1>
 <h3 align="center">An enthusiastic student from VietNam</h3>
 
+<img align="right" alt="Hachiware coding" width="380" src="https://github.com/user-attachments/assets/4bc24360-9079-43da-9300-85b2b5f48bcf">
+
+<br>
+
 - 🌱 I’m currently learning **Cryptography** and **Web3 Auditing**.
 
-- 📫 How to reach me **johanliebert6337@gmail.com**
+- 📫 How to reach me: **johanliebert6337@gmail.com**
 
-<img align="right" alt="Hachiware coding" width="400" src="https://media.tenor.com/1-11dD-1zHMAAAAM/hachiware-chiikawa.gif">
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://media.tenor.com/O61q3kMndZgAAAAM/chiikawa-hachiware.gif" alt="Hachiware happy" width="100"/>
+  <a href="https://t.me/vanhoang37123" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" height="30" />
+  </a>
+  <a href="https://x.com/chunguabuon" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <img align="center" src="https://github.com/user-attachments/assets/05b54d55-9f6b-467a-9e81-5522b8b3d479" alt="Hachiware cute" height="45"/>
 </p>
+
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -20,6 +33,6 @@
 <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johan6337&show_icons=true&theme=dracula&title_color=242826&bg_color=ff8f8f&locale=en&layout=compact" alt="johan6337" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johan6337&theme=highcontrast" alt="johan6337" /></p>
+ 
