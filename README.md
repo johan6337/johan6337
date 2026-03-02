@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Cryptography** and **Web3 Auditing**.
 
 - 📫 How to reach me **johanliebert6337@gmail.com**
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/ccniPwx.gif">
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/ccniPwx.gif](https://tenor.com/view/chiikawa-hachiware-hachi-pc-computer-gif-6974063280583874855">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
